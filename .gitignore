@@ -1,0 +1,44 @@
+
+# Gradle
+
+.gradle/
+build/
+
+
+# Java
+
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+
+# OS
+
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+desktop.ini
+
