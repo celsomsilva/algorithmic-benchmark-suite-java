@@ -1,6 +1,7 @@
 # Algorithmic Benchmark Suite (Java)
 
 > R language version of this repository: [Algorithmic Benchmark Suite (R)](https://github.com/celsomsilva/algorithmic-benchmark-suite-R)
+> Rust language version of this repository: [Algorithmic Benchmark Suite (Rust)](https://github.com/celsomsilva/algorithmic-benchmark-suite-rust)
 
 A **benchmarking and reproducibility framework** for classical algorithms,
 focused on explicit reasoning, correctness, and performance evaluation in Java.
